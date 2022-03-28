@@ -1,0 +1,21 @@
+.container{
+    margin-top: 3%;
+    width: 40%;
+    height: 50%;
+}
+.container2{
+    margin-top: 3%;
+    margin-left: 42%;
+}
+.mb-3{
+    width: 30%;
+}
+.btn-primary{
+    margin-left: 10%;
+}
+.form-check-label {
+    margin-left: 25%;
+}
+container-fluid{
+    background-color: blueviolet;
+}
